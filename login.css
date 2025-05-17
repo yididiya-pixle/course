@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins",serif;
+} 
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(to right, #e2e2e2, #c9d6ff);
+    color: #333;
+}
+.container{
+    margin: 0 15px;
+}
+.form-box{
+    width: 100%;
+    max-width: 450px;
+    padding: 30px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
