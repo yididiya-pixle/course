@@ -76,3 +76,7 @@ p a{
 p a:hover{
     text-decoration: underline;
 }
+.tag{
+    color: #fff;
+    text-decoration: none;
+}
